@@ -24,20 +24,22 @@ public class HelloWorld {
 //        Object o = theNumberThree;
 //        int three = (int) "three";
 
-
-        int x = 4;
-        x += 5;
-
-        int x = 3;
-        int y = 4;
-        y *= x;
-
-        int x = 10;
-        int y = 2;
-        x /= y;
-        y -= x;
+//
+//        int x = 4;
+//        x += 5;
+//
+//        int x = 3;
+//        int y = 4;
+//        y *= x;
+//
+//        int x = 10;
+//        int y = 2;
+//        x /= y;
+//        y -= x;
 
     }
 }
+
+
 
 
