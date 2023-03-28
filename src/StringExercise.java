@@ -1,8 +1,10 @@
+public class StringExercise {
+}
 import java.util.Scanner;
 
 public class StringExercise {
     public static void main(String[] args) {
-       String badGrammar = "We dont need no education \nWe dont need no thought control";
+        String badGrammar = "We dont need no education \nWe dont need no thought control";
         System.out.println(badGrammar);
 
         String checkMessage = "Check \"this\" out!, \"s inside of \"s!";

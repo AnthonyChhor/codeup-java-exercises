@@ -5,7 +5,7 @@ public class Bob {
 
         Scanner initiation = new Scanner(System.in);
         Scanner input = new Scanner(System.in);
-        System.out.println("Hey I am BOB, would you like to have a conversation?");
+        System.out.println("Hey I am Bob, would you like to have a conversation?");
         String userChoice = initiation.nextLine();
         if (userChoice.equalsIgnoreCase("Yes")) {
             System.out.println("What would you like to talk about?");
