@@ -1,5 +1,3 @@
-public class StringExercise {
-}
 import java.util.Scanner;
 
 public class StringExercise {
