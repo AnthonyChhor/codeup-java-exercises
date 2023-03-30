@@ -4,6 +4,7 @@ public class Person {
 
         Person person1 = new Person("John");
         Person person2 = new Person("Jane");
+        person1.setName("John");
         person2.setName("Jane");
         person1.sayHello();
         person2.sayHello();
