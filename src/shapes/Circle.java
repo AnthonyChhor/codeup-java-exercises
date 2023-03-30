@@ -9,22 +9,15 @@ public class Circle {
     }
 
     public double getArea() {
-//        System.out.println("Enter your radius");
         return Math.PI * this.radius * this.radius;
     }
-//    public double getArea(int input) {
-//
-//        return Math.PI * this.radius * this.radius;
-//    }
 
 
 
     public double getCircumference() {
         return Math.PI * 2 * this.radius;
     }
-//    public double getCircumference(int input) {
-//        return Math.PI * 2 * this.radius;
-//    }
+
 
 
 }
